@@ -14,9 +14,6 @@ This repo serves as a personal reference guide covering core ML concepts, algori
 - Feature Engineering
 - Data Preprocessing
 
-## Getting Started
-
-[Add setup instructions and dependencies here]
 
 ## Resources
 

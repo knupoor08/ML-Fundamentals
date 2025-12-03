@@ -20,6 +20,6 @@ This repo serves as a personal reference guide covering core ML concepts, algori
 
 ## Resources
 
-[YOUTUBE : CAMPUSX #100DAYS OF MACHINE LEARNING PLAYLIST]
+ https://www.youtube.com/@campusx-official/playlists
 
 ---
